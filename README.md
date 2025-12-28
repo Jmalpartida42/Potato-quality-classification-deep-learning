@@ -65,4 +65,5 @@ To ensure accuracy, input images must meet the following criteria:
 1. **Solid Black Background:** Crucial for perfect segmentation.
 2. **Uniform Lighting:** Avoid excessive glare.
 3. **Input Example:**
+
    <img width="512" height="576" alt="0_27" src="https://github.com/user-attachments/assets/d5bc32ee-3e6b-4217-94eb-eede5f7bded4" />
